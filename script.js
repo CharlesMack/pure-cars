@@ -354,7 +354,7 @@ function loadStartPage() {
 <body>
     <div class="logo">🚗</div>
     <h1 class="title">Pure Cars</h1>
-    <p class="subtitle">Your car shopper's dream - Find new and used auto dealerships in Akron, Canton, Cleveland and surrounding areas</p>
+    <p class="subtitle">Find new and used auto dealerships in Akron, Canton, Cleveland and surrounding areas</p>
     <input type="text" class="search-box" placeholder="Search by dealership, car type, city, price range..." oninput="filterShortcuts()">
     <div class="shortcuts">
         <div class="shortcut" onclick="parent.navigateToUrl('https://www.vandevere.com/')">
