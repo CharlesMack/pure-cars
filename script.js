@@ -372,11 +372,7 @@ function loadStartPage() {
             <div>Fred Martin Nissan</div>
             <div class="desc">Akron - Nissan - New & Used - $18k-$45k</div>
         </div>
-        <div class="shortcut" onclick="parent.navigateToUrl('https://www.libertyfordcanton.com/')">
-            <div class="icon-circle">🚘</div>
-            <div>Liberty Ford Canton</div>
-            <div class="desc">Canton - Ford - New & Used - $25k-$70k</div>
-        </div>
+      
         <div class="shortcut" onclick="parent.navigateToUrl('https://www.toyotaofnorthcanton.com/')">
             <div class="icon-circle">🚕</div>
             <div>Toyota of North Canton</div>
@@ -397,21 +393,11 @@ function loadStartPage() {
             <div>Toyota Cleveland Heights</div>
             <div class="desc">Cleveland - Toyota - New & Used - $20k-$50k</div>
         </div>
-        <div class="shortcut" onclick="parent.navigateToUrl('https://www.serpentinichevy.net/')">
-            <div class="icon-circle">🛻</div>
-            <div>Serpentini Chevrolet</div>
-            <div class="desc">Strongsville - Chevy - New & Used - $25k-$60k</div>
-        </div>
+        
     </div>
     <div class="check-tabs">
         <p>Check out these tabs</p>
-        <div class="tab-item" onclick="parent.navigateToUrl('https://www.marhofer.com/')">
-            <div class="tab-icon">🚗</div>
-            <div>
-                <div class="tab-title">Ron Marhofer Auto Family</div>
-                <div class="tab-subtitle">marhofer.com - Akron/Canton - Various brands - Popular choice</div>
-            </div>
-        </div>
+        
         <div class="tab-item" onclick="parent.navigateToUrl('https://www.spitzerchevroletnorthcanton.com/')">
             <div class="tab-icon">🚙</div>
             <div>
@@ -419,13 +405,7 @@ function loadStartPage() {
                 <div class="tab-subtitle">spitzerchevroletnorthcanton.com - North Canton - Chevy - Recently viewed</div>
             </div>
         </div>
-        <div class="tab-item" onclick="parent.navigateToUrl('https://www.centralcadillac.com/')">
-            <div class="tab-icon">🛻</div>
-            <div>
-                <div class="tab-title">Central Cadillac</div>
-                <div class="tab-subtitle">centralcadillac.com - Cleveland - Cadillac - Luxury options</div>
-            </div>
-        </div>
+        
     </div>
     <script>
         function filterShortcuts() {
